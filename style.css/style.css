@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    padding: 40px 40px;
+}
+ul {
+    padding-left: 80px;
+}
+
+.Exchange_Rates_today {
+
+    margin-left: 40px;
+}
+
+table,
+td,
+th
+{
+    border: 1px solid black;
+}
